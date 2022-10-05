@@ -1,0 +1,9 @@
+node_modules
+backend\config.env
+backend/config.env
+config.env
+frontend/build/
+frontend\build\
+build
+
+  

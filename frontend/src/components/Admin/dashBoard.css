@@ -1,0 +1,34 @@
+/* ______________________ DASHBOARD ______________________ */
+.dashBoardContainer {
+  margin-top: 4rem;
+}
+.DashboardNavlink,
+.DashboardCol3 {
+  width: 15rem;
+  height: 15rem;
+}
+.dashboardBrandLink {
+  transition: all 0.5s;
+}
+.dashboardBrandLink:hover {
+  transform: scale(1.1);
+}
+/* _____________________________________________________ */
+/* ______________________ SIDEBAR ______________________ */
+
+.sidebarBrandLink {
+  transition: all 0.5s;
+}
+.sidebarBrandLink:hover {
+  color: tomato;
+  transform: scale(1.1);
+}
+/* _____________________________________________________ */
+
+.proudctList_action_link {
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.proudctList_action_link:hover {
+  color: tomato;
+}

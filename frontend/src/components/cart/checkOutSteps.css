@@ -1,0 +1,15 @@
+
+/* class name is bydefault  */
+.MuiStepConnector-line {
+  display: none !important;
+}
+.MuiStepConnector-root {
+  height: 3px;
+  background: #000;
+}
+.MuiStepConnector-active {
+  background-color: tomato;
+}
+.MuiStepConnector-completed {
+  background-color: rgb(14, 166, 14);
+}

@@ -1,0 +1,68 @@
+/* FONT_FAMILY */
+@import url("https://fonts.googleapis.com/css2?family=BioRhyme&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap");
+
+/* FONT FAMILY_NAME */
+/* 
+font-family: 'BioRhyme', serif;
+font-family: 'Baloo Bhaijaan 2', cursive;
+font-family: 'Cinzel Decorative', cursive;
+
+*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+/* body { */
+  /* cursor: url("./assets/images/Cursor.png"), auto; */
+/* } */
+button {
+  font-family: "Baloo Bhaijaan 2", cursive;
+}
+input {
+  font-family: monospace;
+}
+.navbar-brand {
+  font-family: "BioRhyme", serif;
+}
+.nav-link {
+  font-family: "Cinzel Decorative", cursive;
+}
+/* HEADING TAG FONT FAMILY */
+/* _____ big size */
+h1,
+h2,
+h3 {
+  font-family: "Cinzel Decorative", cursive;
+}
+/* _____ small size */
+h4,
+h5 {
+  font-family: "BioRhyme", serif;
+}
+
+/* PARAGRAPH TAG FONT FAMILY */
+P,
+h6,
+span {
+  font-family: "Baloo Bhaijaan 2", cursive;
+}
+/* _____________________________________________ || FOOTER || _____________________________________________ */
+
+.socialMedaiLink:hover {
+  background: rgba(215, 124, 12, 0.8);
+  transition: 0.5s ease-in-out;
+}
+
+button:hover,
+.btn:hover {
+  transition: 0.5s ease-in-out;
+}
+
+.btn-danger:hover {
+  transition: 0.5s ease-in-out;
+  background: tomato;
+}

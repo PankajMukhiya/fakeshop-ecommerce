@@ -1,0 +1,33 @@
+/* #loginSignUpContainer{
+    background: rgb(220, 181, 181);
+} */
+#loginSignUpBox {
+  /* background: rgb(189, 187, 187); */
+  width: 50vw;
+  height: 60vh;
+}
+#loginRow {
+  transition: all 0.5s;
+}
+#signUpRow {
+  transition: all 0.5s;
+  /* transform: translateY(-100%)  */
+}
+
+.login_,
+.register_ {
+  cursor: pointer;
+  transition: all 0.5s;
+}
+.login_:hover,
+.register_:hover {
+  color: tomato;
+}
+
+.hrTag {
+  background: tomato;
+  height: 3px;
+  width: 50%;
+  border: none;
+  transition: all 0.5s;
+}
