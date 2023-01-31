@@ -32,7 +32,7 @@ const Products = () => {
     // console.log(products)
 
   const [currentPage, setCurrentPage] = useState(1);
-  const [price, setPrice] = useState([0, 25000]);
+  const [price, setPrice] = useState([0, 200000]);
   const [category, setCategory] = useState("");
   const [changeCategoryTitle, setChangeCategoryTitle] = useState(
     "Open this to select Category"

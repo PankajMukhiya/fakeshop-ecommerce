@@ -106,7 +106,7 @@ exports.updateProduct = catchAsycError(async (req, res, next) => {
     });
     console.log("Product Updated...");
   }
-  res.status(200).json({
+  res.status(202).json({
     success: true,
     Message: "Product Updated...",
     product,
