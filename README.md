@@ -1,11 +1,11 @@
-# fake-shop
+# fake-shop e-commerce website
 
-# This is the link :
+#Project Live Link :
 ### https://fakeshop-ecommerce.onrender.com/ 
 
 
 This is the E-commerce web app . 
-In this project I'm used MERN tehchnologies.
+In this project I have used MERN tehchnologies.
 
 
 
